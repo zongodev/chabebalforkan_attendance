@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347072479376",
+    "project_id": "qrpres",
+    "storage_bucket": "qrpres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347072479376:android:34a7707797d90060909815",
+        "android_client_info": {
+          "package_name": "com.example.qr_pres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347072479376-9so1dhtvput9vv1960j01doddmffjj7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcRQvwy8ysSaoACCENJbhFnEArm0TwHgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347072479376-9so1dhtvput9vv1960j01doddmffjj7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
